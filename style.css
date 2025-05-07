@@ -1,0 +1,43 @@
+h1{ text-align: center;
+color: white;}
+
+h2{position: absolute;
+    color: rgb(63, 63, 63);}
+
+img{ height: 140px;
+width: 150px;
+padding: 50px;
+}
+
+.primeira_linha{
+    height: 200px;
+    width: 1020px;
+    margin-top: 25px;
+    margin-left: 400px;
+    background-color: rgb(31, 30, 30);
+}
+
+.segunda_linha{
+    height: 200px;
+    width: 1020px;
+    margin-left: 400px;
+    background-color: rgb(31, 30, 30);
+}
+
+.terceira_linha{
+    height: 200px;
+    width: 1020px;
+    margin-left: 400px;
+    background-color: rgb(31, 30, 30);
+}
+
+.quarta_linha{
+    
+    height: 200px;
+    width: 1020px;
+    margin-left: 400px;
+    margin-bottom: 25px;
+    background-color: rgb(31, 30, 30);
+}
+
+body{background-color: rgb(63, 63, 63);}
